@@ -35,7 +35,8 @@ array_​push(),array_​rand(),array_​reduce(),array_​replace_​recursive(
 array_​splice(),array_​sum(),array_​udiff_​assoc(),array_​udiff_​uassoc(),array_​udiff(),array_​uintersect_​assoc(),array_​uintersect_​uassoc(),
 array_​uintersect(),array_​unique(),array_​unshift(),array_​values(),array_​walk_​recursive(),array_​walk(),array(),arsort(),asort(),compact(),
 count(),current(),end(),extract(),in_​array(),key_​exists(),key(),krsort(),ksort(),list(),natcasesort(),natsort(),next(),pos(),prev(),
-range(),reset(),rsort(),shuffle(),sizeof(),sort(),uasort(),uksort(),usort(),each()
+range(),reset(),rsort(),shuffle(),sizeof(),sort(),uasort(),uksort(),usort(),each(),str_split(),zend_version(),tan(),chr(),ceil(),sinh(),cosh()
+ceil(),cosh(),sinh(),floor()
 '''
 
 print("\033[0;31;40m" + logo + "\033[0m")
